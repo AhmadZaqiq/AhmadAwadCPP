@@ -2,7 +2,7 @@
 
 # Backend Wizard 🧙‍♂️
 
-### My name is Ahmad Zaqiq, and I'm from Palestine 🇵🇸. I am currently enhancing my skills in backend development using C# and the .NET Framework for desktop applications 💻 while pursuing a degree in Computer Systems Engineering 🎓, with a strong commitment to continuous professional growth 🌱.
+### My name is Ahmad Zaqiq, and I am a Computer Systems Engineering graduate from palestine polytechnic university 🇵🇸. I am currently focusing on backend development using C# and the .NET Framework 💻, while continuously improving my software engineering skills and growing professionally 🌱.
 
 ![Image Description](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
